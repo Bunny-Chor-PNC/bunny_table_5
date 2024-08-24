@@ -1,0 +1,53 @@
+table{
+    width: 85%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-top: 40px;
+    border-radius: 10px;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+}
+thead th{
+    text-align: start;
+}
+
+thead th, tbody td{
+    padding: 1rem;
+    border-bottom: 1px solid rgba(250, 196, 124, 0.315);
+}
+
+thead th {
+    background-color: #28b463;
+    font-size: large;
+}
+
+.card{
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    font-size: larger;
+    border-radius: 7px;
+}
+
+.card_1{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    margin: 0px 10px;
+    font-size: larger;
+    border-radius: 7px;
+}
+
+.card_2{
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    font-size: larger;
+    border-radius: 7px;
+}
+
